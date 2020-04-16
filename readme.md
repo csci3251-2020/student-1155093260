@@ -43,8 +43,8 @@ I am a new beginner to GitHub.
 
 
 # Screenshot <h4>
-# Screenshot <h4>
-![Screenshot](Screenshot of Screenshot_1155093260.png)
+
+![Screenshot](Screenshot_1155093260.png)
 
 
 
